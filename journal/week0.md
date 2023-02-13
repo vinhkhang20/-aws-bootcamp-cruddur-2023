@@ -3,7 +3,7 @@
 ## Homework Hard Assignments
 1. Set a Billing alarm  
 
-![Billing alarm](vinhkhang20/aws-bootcamp-cruddur-2023/_docs/assets/week0/1.png)
+![Billing alarm](/_docs/assets/week0/1.png)
 
 2. Set a AWS Budget 
 
