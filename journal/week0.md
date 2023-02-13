@@ -51,3 +51,6 @@ Select the AWS service for which you want to request a limit increase.
 Fill out the form with the required information, including the current limit, the desired limit, and the reason for the request.
 Click the "Submit" button to submit your case.
 ![support ticket](/_docs/assets/week0/11.png)
+
+Just one day after, I got an approval from AWS !
+![AWS approval](/_docs/assets/week0/11.1.png)
