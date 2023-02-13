@@ -1,16 +1,23 @@
 # Week 0 — Billing and Architecture
 ## Student Discord name : Kang The Conqueror#6060
 ## Homework Hard Assignments
-1. Set a Billing alarm 
-![Billing alarm](_docs/assets/week0/1.jpg)
+1. Set a Billing alarm  
+
+![Billing alarm](/workspace/aws-bootcamp-cruddur-2023/_docs/assets/week0/1.png)
+
 2. Set a AWS Budget 
-[Precorded]
+
+![AWS Budget](/workspace/aws-bootcamp-cruddur-2023/_docs/assets/week0/2.png)
+
 3. Generating AWS Credentials  
     I have created the IAM account and access keys. 
 4. Using CloudShell 
-[Precorded]
+
+![Cloudshell](/workspace/aws-bootcamp-cruddur-2023/_docs/assets/week0/4.png)
+
 5. Conceptual Architecture Diagram or your Napkins 
-[Live-Stream]
+
+![Lucid chard conceptual](/workspace/aws-bootcamp-cruddur-2023/_docs/assets/week0/5.png)
 
 ## Homework Stretch Assignments 
 1. Destroy your root account credentials, Set MFA, IAM role
