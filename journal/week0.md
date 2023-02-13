@@ -16,6 +16,7 @@
 5. Conceptual Architecture Diagram or your Napkins 
 ![Lucid chard conceptual](/_docs/assets/week0/5.png)
 
+
 ## Homework Stretch Assignments 
 6. Destroy your root account credentials, Set MFA, IAM role.    
 For root account, I deleted the access keys, set MFA and IAM role. 
@@ -25,13 +26,13 @@ For root account, I deleted the access keys, set MFA and IAM role.
 
 8. Review all the questions of each pillars in the Well Architected Tool (No specialized lens).  
 I have created a workload in the AWS Well-Architected Tool and went over the questions for each pillar.
-There are six pillars of a AWS Well-Architected Framework : (acronym CROPSS)
-        * Cost optimization
-        * Reliability
-        * Operational Excellence
-        * Performance Efficiency
-        * Security
-        * Sustainability
+There are six pillars of a AWS Well-Architected Framework : (acronym CROPSS). 
+   * Cost optimization
+   * Reliability
+   * Operational Excellence
+   * Performance Efficiency
+   * Security
+   * Sustainability
 
 9. Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
 ![logical pipeline](/_docs/assets/week0/9.png)
