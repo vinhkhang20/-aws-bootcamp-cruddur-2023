@@ -15,6 +15,8 @@
 
 5. Conceptual Architecture Diagram or your Napkins 
 ![Lucid chard conceptual](/_docs/assets/week0/5.png)
+Below is link to my lucid chart : 
+https://lucid.app/lucidchart/3c9cca7e-754e-4036-a8e1-dd8c3dd8c87e/edit?viewport_loc=-478%2C-105%2C1715%2C907%2C0_0&invitationId=inv_726767e9-1d42-4d51-9962-6c77500ca08c
 
 
 ## Homework Stretch Assignments 
@@ -36,6 +38,8 @@ There are six pillars of a AWS Well-Architected Framework : (acronym CROPSS).
 
 9. Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts
 ![logical pipeline](/_docs/assets/week0/9.png)
+Below is link to my lucid chart :
+https://lucid.app/lucidchart/3c9cca7e-754e-4036-a8e1-dd8c3dd8c87e/edit?viewport_loc=-413%2C-248%2C2518%2C1331%2CSIMwGapOsEp4&invitationId=inv_726767e9-1d42-4d51-9962-6c77500ca08c
 
 10. Research the technical and service limits of specific services and how they could impact the technical path for technical flexibility.   
 Each service has specific technical and service limits that can impact the technical path for technical flexibility. 
