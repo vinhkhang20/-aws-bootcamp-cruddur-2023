@@ -56,5 +56,5 @@ Fill out the form with the required information, including the current limit, th
 Click the "Submit" button to submit your case.
 ![support ticket](/_docs/assets/week0/11.png)
 
-Just one day after, I got an approval from AWS !
+Just one day after, I got an approval from AWS!
 ![AWS approval](/_docs/assets/week0/11.1.png)
