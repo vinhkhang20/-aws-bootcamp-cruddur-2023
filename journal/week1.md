@@ -55,12 +55,18 @@ Finally, we can build docker image and then run this docker image.
 ![](assets/week1/2.png)
 
 ### **4. Implement a healthcheck in the V3 Docker compose file**
-
+We can add a health check in the docker-compose.yml file as below :
+![](assets/week1/3.png)
 
 ### **5. Research best practices of Dockerfiles and attempt to implement it in your Dockerfile**
-
+TO BE UPDATED 
 
 ### **6. Learn how to install Docker on your localmachine and get the same containers running outside of Gitpod / Codespaces**
+I went to the Docker website and download the Docker Desktop for Mac, then I installed Docker on my mac.  
+Check whether docker has been installed on my local machine using my terminal:
+![](assets/week1/4.png)
 
+Then I downloaded the `docker-compose.yml` file from Gitpod and run `docker-compose up` on my local machine. I think it works !
+![](assets/week1/5.png)
 
 ### **7. Launch an EC2 instance that has docker installed, and pull a container to demonstrate you can run your own docker processes.**
