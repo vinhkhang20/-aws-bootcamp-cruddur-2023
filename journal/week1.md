@@ -44,18 +44,19 @@ FROM python:3.10-slim-buster
 WORKDIR /backend-flask  
 COPY --from=build /root/.local /root/.local  
 COPY --from=build /app .  
-ENV PATH=/root/.local/bin:$PATH  
-ENV FLASK_ENV=development  
+ENV PATH=/root/.local/bin:$PATH
+
+> ENV FLASK_ENV=development  
 EXPOSE ${PORT}  
 CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0", "--port=4567"]  
 
 Finally, we can build docker image and then run this docker image. 
-> docker build -t myiamge .  
+> docker build -t myimage .  
 > docker run -p 4567:4567 myimage
 ![](assets/week1/2.png)
 
 ### **4. Implement a healthcheck in the V3 Docker compose file**
-We can add a health check in the docker-compose.yml file as below :
+I add a health check in the docker-compose.yml file as below :
 ![](assets/week1/3.png)
 
 ### **5. Research best practices of Dockerfiles and attempt to implement it in your Dockerfile**
