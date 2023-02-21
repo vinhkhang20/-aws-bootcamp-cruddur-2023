@@ -70,3 +70,17 @@ Then I downloaded the `docker-compose.yml` file from Gitpod and run `docker-comp
 ![](assets/week1/5.png)
 
 ### **7. Launch an EC2 instance that has docker installed, and pull a container to demonstrate you can run your own docker processes.**
+I launched an EC2 instance. At first, docker has not been installed on my EC2.
+Then I installed Docker on my EC2 using :
+> sudo apt install docker
+
+Then I pull a container to test.
+> sudo docker pull hello-world
+
+Finally I run this container. 
+> sudo docker run hello-world
+
+And it appeared to run correctly. 
+![](assets/week1/6.png)
+
+ 
