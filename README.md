@@ -11,14 +11,14 @@ This is the starting codebase that will be used in the FREE AWS Cloud Project Bo
 
 ## Instructions
 
-At the start of the bootcamp you need to create a new Github Repository from this template.
+Please take a look at the Journal below detailing what I did in each week. 
 
 ## Journaling Homework
 
 The `/journal` directory contains
 
-- [ ] [Week 0](journal/week0.md)
-- [ ] [Week 1](journal/week1.md)
+- [ ] [Week 0 - Set up](journal/week0.md)
+- [ ] [Week 1 - Docker Containerization](journal/week1.md)
 - [ ] [Week 2](journal/week2.md)
 - [ ] [Week 3](journal/week3.md)
 - [ ] [Week 4](journal/week4.md)
