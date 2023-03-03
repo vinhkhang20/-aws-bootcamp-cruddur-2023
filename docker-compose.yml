@@ -7,16 +7,17 @@ services:
       OTEL_SERVICE_NAME: "${HONEYCOMB_SERVICE_NAME}"
       OTEL_EXPORTER_OTLP_ENDPOINT: "https://api.honeycomb.io"
       OTEL_EXPORTER_OTLP_HEADERS: "x-honeycomb-team=${HONEYCOMB_API_KEY}"
+
     build: ./backend-flask
     ports:
       - "4567:4567"
     volumes:
       - ./backend-flask:/backend-flask
-    healthcheck:
-      test: ["CMD-SHELL", "curl --fail http://localhost:4567/health || exit 1"]
-      interval: 30s
-      timeout: 10s
-      retries: 5    
+    # healthcheck:
+    #   test: ["CMD-SHELL", "curl --fail http://localhost:4567/health || exit 1"]
+    #   interval: 30s
+    #   timeout: 10s
+    #   retries: 5    
 
   frontend-react-js:
     environment:
